@@ -13,3 +13,6 @@ ELSIF Boton_Paro THEN
 END_IF;
 
 END_PROGRAM
+git add programa.st
+git commit -m "Codigo base de Texto Estructurado listo"
+git push origin main
